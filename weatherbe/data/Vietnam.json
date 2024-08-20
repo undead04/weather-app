@@ -1,0 +1,2818 @@
+[
+    {
+        "county": "A Lưới",
+        "state": "Thừa Thiên Huế"
+    },
+    {
+        "county": "An Biên",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "An Dương",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "An Khê",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "An Lão",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "An Lão",
+        "state": "Bình Định"
+    },
+    {
+        "county": "An Minh",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "An Nhơn",
+        "state": "Bình Định"
+    },
+    {
+        "county": "An Phú",
+        "state": "An Giang"
+    },
+    {
+        "county": "Ân Thi",
+        "state": "Hưng Yên"
+    },
+    {
+        "county": "Anh Sơn",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Ayun Pa",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Ba Bể",
+        "state": "Bắc Kạn"
+    },
+    {
+        "county": "Ba Chẽ",
+        "state": "Quảng Ninh"
+    },
+    {
+        "county": "Ba Đình",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Ba Đồn",
+        "state": "Quảng Bình"
+    },
+    {
+        "county": "Bà Rịa",
+        "state": "Bà Rịa – Vũng Tàu"
+    },
+    {
+        "county": "Bá Thước",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Ba Tơ",
+        "state": "Quảng Ngãi"
+    },
+    {
+        "county": "Ba Tri",
+        "state": "Bến Tre"
+    },
+    {
+        "county": "Ba Vì",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Bác Ái",
+        "state": "Ninh Thuận"
+    },
+    {
+        "county": "Bắc Bình",
+        "state": "Bình Thuận"
+    },
+    {
+        "county": "Bắc Giang",
+        "state": "Bắc Giang"
+    },
+    {
+        "county": "Bắc Hà",
+        "state": "Lào Cai"
+    },
+    {
+        "county": "Bắc Kạn",
+        "state": "Bắc Kạn"
+    },
+    {
+        "county": "Bạc Liêu",
+        "state": "Bạc Liêu"
+    },
+    {
+        "county": "Bắc Mê",
+        "state": "Hà Giang"
+    },
+    {
+        "county": "Bắc Ninh",
+        "state": "Bắc Ninh"
+    },
+    {
+        "county": "Bắc Quang",
+        "state": "Hà Giang"
+    },
+    {
+        "county": "Bắc Sơn",
+        "state": "Lạng Sơn"
+    },
+    {
+        "county": "Bắc Tân Uyên",
+        "state": "Bình Dương"
+    },
+    {
+        "county": "Bắc Trà My",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Bắc Từ Liêm",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Bắc Yên",
+        "state": "Sơn La"
+    },
+    {
+        "county": "Bạch Long Vĩ",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "Bạch Thông",
+        "state": "Bắc Kạn"
+    },
+    {
+        "county": "Bảo Lạc",
+        "state": "Cao Bằng"
+    },
+    {
+        "county": "Bảo Lâm",
+        "state": "Cao Bằng"
+    },
+    {
+        "county": "Bảo Lâm",
+        "state": "Lâm Đồng"
+    },
+    {
+        "county": "Bảo Lộc",
+        "state": "Lâm Đồng"
+    },
+    {
+        "county": "Bảo Thắng",
+        "state": "Lào Cai"
+    },
+    {
+        "county": "Bảo Yên",
+        "state": "Lào Cai"
+    },
+    {
+        "county": "Bát Xát",
+        "state": "Lào Cai"
+    },
+    {
+        "county": "Bàu Bàng",
+        "state": "Bình Dương"
+    },
+    {
+        "county": "Bến Cát",
+        "state": "Bình Dương"
+    },
+    {
+        "county": "Bến Cầu",
+        "state": "Tây Ninh"
+    },
+    {
+        "county": "Bến Lức",
+        "state": "Long An"
+    },
+    {
+        "county": "Bến Tre",
+        "state": "Bến Tre"
+    },
+    {
+        "county": "Biên Hòa",
+        "state": "Đồng Nai"
+    },
+    {
+        "county": "Bỉm Sơn",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Bình Chánh",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Bình Đại",
+        "state": "Bến Tre"
+    },
+    {
+        "county": "Bình Gia",
+        "state": "Lạng Sơn"
+    },
+    {
+        "county": "Bình Giang",
+        "state": "Hải Dương"
+    },
+    {
+        "county": "Bình Liêu",
+        "state": "Quảng Ninh"
+    },
+    {
+        "county": "Bình Long",
+        "state": "Bình Phước"
+    },
+    {
+        "county": "Bình Lục",
+        "state": "Hà Nam"
+    },
+    {
+        "county": "Bình Minh",
+        "state": "Vĩnh Long"
+    },
+    {
+        "county": "Bình Sơn",
+        "state": "Quảng Ngãi"
+    },
+    {
+        "county": "Bình Tân",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Bình Tân",
+        "state": "Vĩnh Long"
+    },
+    {
+        "county": "Bình Thạnh",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Bình Thủy",
+        "state": "Cần Thơ"
+    },
+    {
+        "county": "Bình Xuyên",
+        "state": "Vĩnh Phúc"
+    },
+    {
+        "county": "Bố Trạch",
+        "state": "Quảng Bình"
+    },
+    {
+        "county": "Bù Đăng",
+        "state": "Bình Phước"
+    },
+    {
+        "county": "Bù Đốp",
+        "state": "Bình Phước"
+    },
+    {
+        "county": "Bù Gia Mập",
+        "state": "Bình Phước"
+    },
+    {
+        "county": "Buôn Đôn",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Buôn Hồ",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Buôn Ma Thuột",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Cà Mau",
+        "state": "Cà Mau"
+    },
+    {
+        "county": "Cái Bè",
+        "state": "Tiền Giang"
+    },
+    {
+        "county": "Cai Lậy",
+        "state": "Tiền Giang"
+    },
+    {
+        "county": "Cai Lậy",
+        "state": "Tiền Giang"
+    },
+    {
+        "county": "Cái Nước",
+        "state": "Cà Mau"
+    },
+    {
+        "county": "Cái Răng",
+        "state": "Cần Thơ"
+    },
+    {
+        "county": "Cẩm Giàng",
+        "state": "Hải Dương"
+    },
+    {
+        "county": "Cẩm Khê",
+        "state": "Phú Thọ"
+    },
+    {
+        "county": "Cam Lâm",
+        "state": "Khánh Hòa"
+    },
+    {
+        "county": "Cẩm Lệ",
+        "state": "Đà Nẵng"
+    },
+    {
+        "county": "Cam Lộ",
+        "state": "Quảng Trị"
+    },
+    {
+        "county": "Cẩm Mỹ",
+        "state": "Đồng Nai"
+    },
+    {
+        "county": "Cẩm Phả",
+        "state": "Quảng Ninh"
+    },
+    {
+        "county": "Cam Ranh",
+        "state": "Khánh Hòa"
+    },
+    {
+        "county": "Cẩm Thủy",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Cẩm Xuyên",
+        "state": "Hà Tĩnh"
+    },
+    {
+        "county": "Cần Đước",
+        "state": "Long An"
+    },
+    {
+        "county": "Cần Giờ",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Cần Giuộc",
+        "state": "Long An"
+    },
+    {
+        "county": "Can Lộc",
+        "state": "Hà Tĩnh"
+    },
+    {
+        "county": "Càng Long",
+        "state": "Trà Vinh"
+    },
+    {
+        "county": "Cao Bằng",
+        "state": "Cao Bằng"
+    },
+    {
+        "county": "Cao Lãnh",
+        "state": "Đồng Tháp"
+    },
+    {
+        "county": "Cao Lãnh",
+        "state": "Đồng Tháp"
+    },
+    {
+        "county": "Cao Lộc",
+        "state": "Lạng Sơn"
+    },
+    {
+        "county": "Cao Phong",
+        "state": "Hòa Bình"
+    },
+    {
+        "county": "Cát Hải",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "Cát Tiên",
+        "state": "Lâm Đồng"
+    },
+    {
+        "county": "Cầu Giấy",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Cầu Kè",
+        "state": "Trà Vinh"
+    },
+    {
+        "county": "Cầu Ngang",
+        "state": "Trà Vinh"
+    },
+    {
+        "county": "Châu Đốc",
+        "state": "An Giang"
+    },
+    {
+        "county": "Châu Đức",
+        "state": "Bà Rịa – Vũng Tàu"
+    },
+    {
+        "county": "Châu Phú",
+        "state": "An Giang"
+    },
+    {
+        "county": "Châu Thành",
+        "state": "An Giang"
+    },
+    {
+        "county": "Châu Thành",
+        "state": "Bến Tre"
+    },
+    {
+        "county": "Châu Thành",
+        "state": "Đồng Tháp"
+    },
+    {
+        "county": "Châu Thành",
+        "state": "Hậu Giang"
+    },
+    {
+        "county": "Châu Thành",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "Châu Thành",
+        "state": "Long An"
+    },
+    {
+        "county": "Châu Thành",
+        "state": "Sóc Trăng"
+    },
+    {
+        "county": "Châu Thành",
+        "state": "Tây Ninh"
+    },
+    {
+        "county": "Châu Thành",
+        "state": "Tiền Giang"
+    },
+    {
+        "county": "Châu Thành",
+        "state": "Trà Vinh"
+    },
+    {
+        "county": "Châu Thành A",
+        "state": "Hậu Giang"
+    },
+    {
+        "county": "Chi Lăng",
+        "state": "Lạng Sơn"
+    },
+    {
+        "county": "Chí Linh",
+        "state": "Hải Dương"
+    },
+    {
+        "county": "Chiêm Hóa",
+        "state": "Tuyên Quang"
+    },
+    {
+        "county": "Chợ Đồn",
+        "state": "Bắc Kạn"
+    },
+    {
+        "county": "Chợ Gạo",
+        "state": "Tiền Giang"
+    },
+    {
+        "county": "Chợ Lách",
+        "state": "Bến Tre"
+    },
+    {
+        "county": "Chợ Mới",
+        "state": "An Giang"
+    },
+    {
+        "county": "Chợ Mới",
+        "state": "Bắc Kạn"
+    },
+    {
+        "county": "Chơn Thành",
+        "state": "Bình Phước"
+    },
+    {
+        "county": "Chư Păh",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Chư Prông",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Chư Pưh",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Chư Sê",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Chương Mỹ",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Cờ Đỏ",
+        "state": "Cần Thơ"
+    },
+    {
+        "county": "Cô Tô",
+        "state": "Quảng Ninh"
+    },
+    {
+        "county": "Cồn Cỏ",
+        "state": "Quảng Trị"
+    },
+    {
+        "county": "Con Cuông",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Côn Đảo",
+        "state": "Bà Rịa – Vũng Tàu"
+    },
+    {
+        "county": "Củ Chi",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Cư Jút",
+        "state": "Đắk Nông"
+    },
+    {
+        "county": "Cư Kuin",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Cù Lao Dung",
+        "state": "Sóc Trăng"
+    },
+    {
+        "county": "Cư M'gar",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Cửa Lò",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Đà Bắc",
+        "state": "Hòa Bình"
+    },
+    {
+        "county": "Đạ Huoai",
+        "state": "Lâm Đồng"
+    },
+    {
+        "county": "Đakrông",
+        "state": "Quảng Trị"
+    },
+    {
+        "county": "Đà Lạt",
+        "state": "Lâm Đồng"
+    },
+    {
+        "county": "Đạ Tẻh",
+        "state": "Lâm Đồng"
+    },
+    {
+        "county": "Đại Lộc",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Đại Từ",
+        "state": "Thái Nguyên"
+    },
+    {
+        "county": "Đak Đoa",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Đăk Glei",
+        "state": "Kon Tum"
+    },
+    {
+        "county": "Đắk Glong",
+        "state": "Đắk Nông"
+    },
+    {
+        "county": "Đăk Hà",
+        "state": "Kon Tum"
+    },
+    {
+        "county": "Đắk Mil",
+        "state": "Đắk Nông"
+    },
+    {
+        "county": "Đak Pơ",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Đắk R'lấp",
+        "state": "Đắk Nông"
+    },
+    {
+        "county": "Đắk Song",
+        "state": "Đắk Nông"
+    },
+    {
+        "county": "Đăk Tô",
+        "state": "Kon Tum"
+    },
+    {
+        "county": "Đầm Dơi",
+        "state": "Cà Mau"
+    },
+    {
+        "county": "Đầm Hà",
+        "state": "Quảng Ninh"
+    },
+    {
+        "county": "Đam Rông",
+        "state": "Lâm Đồng"
+    },
+    {
+        "county": "Đan Phượng",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Đất Đỏ",
+        "state": "Bà Rịa – Vũng Tàu"
+    },
+    {
+        "county": "Dầu Tiếng",
+        "state": "Bình Dương"
+    },
+    {
+        "county": "Dĩ An",
+        "state": "Bình Dương"
+    },
+    {
+        "county": "Di Linh",
+        "state": "Lâm Đồng"
+    },
+    {
+        "county": "Điện Bàn",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Điện Biên",
+        "state": "Điện Biên"
+    },
+    {
+        "county": "Điện Biên Đông",
+        "state": "Điện Biên"
+    },
+    {
+        "county": "Điện Biên Phủ",
+        "state": "Điện Biên"
+    },
+    {
+        "county": "Diễn Châu",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Diên Khánh",
+        "state": "Khánh Hòa"
+    },
+    {
+        "county": "Định Hóa",
+        "state": "Thái Nguyên"
+    },
+    {
+        "county": "Đình Lập",
+        "state": "Lạng Sơn"
+    },
+    {
+        "county": "Định Quán",
+        "state": "Đồng Nai"
+    },
+    {
+        "county": "Đô Lương",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Đồ Sơn",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "Đoan Hùng",
+        "state": "Phú Thọ"
+    },
+    {
+        "county": "Đơn Dương",
+        "state": "Lâm Đồng"
+    },
+    {
+        "county": "Đông Anh",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Đống Đa",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Đông Giang",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Đông Hà",
+        "state": "Quảng Trị"
+    },
+    {
+        "county": "Đông Hải",
+        "state": "Bạc Liêu"
+    },
+    {
+        "county": "Đông Hòa",
+        "state": "Phú Yên"
+    },
+    {
+        "county": "Đồng Hới",
+        "state": "Quảng Bình"
+    },
+    {
+        "county": "Đông Hưng",
+        "state": "Thái Bình"
+    },
+    {
+        "county": "Đồng Hỷ",
+        "state": "Thái Nguyên"
+    },
+    {
+        "county": "Đồng Phú",
+        "state": "Bình Phước"
+    },
+    {
+        "county": "Đông Sơn",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Đông Triều",
+        "state": "Quảng Ninh"
+    },
+    {
+        "county": "Đồng Văn",
+        "state": "Hà Giang"
+    },
+    {
+        "county": "Đồng Xoài",
+        "state": "Bình Phước"
+    },
+    {
+        "county": "Đồng Xuân",
+        "state": "Phú Yên"
+    },
+    {
+        "county": "Đức Cơ",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Đức Hòa",
+        "state": "Long An"
+    },
+    {
+        "county": "Đức Huệ",
+        "state": "Long An"
+    },
+    {
+        "county": "Đức Linh",
+        "state": "Bình Thuận"
+    },
+    {
+        "county": "Đức Phổ",
+        "state": "Quảng Ngãi"
+    },
+    {
+        "county": "Đức Thọ",
+        "state": "Hà Tĩnh"
+    },
+    {
+        "county": "Đức Trọng",
+        "state": "Lâm Đồng"
+    },
+    {
+        "county": "Dương Kinh",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "Dương Minh Châu",
+        "state": "Tây Ninh"
+    },
+    {
+        "county": "Duy Tiên",
+        "state": "Hà Nam"
+    },
+    {
+        "county": "Duy Xuyên",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Duyên Hải",
+        "state": "Trà Vinh"
+    },
+    {
+        "county": "Duyên Hải",
+        "state": "Trà Vinh"
+    },
+    {
+        "county": "Ea H'leo",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Ea Kar",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Ea Súp",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Gia Bình",
+        "state": "Bắc Ninh"
+    },
+    {
+        "county": "Gia Lâm",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Gia Lộc",
+        "state": "Hải Dương"
+    },
+    {
+        "county": "Gia Nghĩa",
+        "state": "Đắk Nông"
+    },
+    {
+        "county": "Giá Rai",
+        "state": "Bạc Liêu"
+    },
+    {
+        "county": "Gia Viễn",
+        "state": "Ninh Bình"
+    },
+    {
+        "county": "Giang Thành",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "Giao Thủy",
+        "state": "Nam Định"
+    },
+    {
+        "county": "Gio Linh",
+        "state": "Quảng Trị"
+    },
+    {
+        "county": "Giồng Riềng",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "Giồng Trôm",
+        "state": "Bến Tre"
+    },
+    {
+        "county": "Gò Công",
+        "state": "Tiền Giang"
+    },
+    {
+        "county": "Gò Công Đông",
+        "state": "Tiền Giang"
+    },
+    {
+        "county": "Gò Công Tây",
+        "state": "Tiền Giang"
+    },
+    {
+        "county": "Gò Dầu",
+        "state": "Tây Ninh"
+    },
+    {
+        "county": "Gò Quao",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "Gò Vấp",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Hà Đông",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Hà Giang",
+        "state": "Hà Giang"
+    },
+    {
+        "county": "Hạ Hòa",
+        "state": "Phú Thọ"
+    },
+    {
+        "county": "Hạ Lang",
+        "state": "Cao Bằng"
+    },
+    {
+        "county": "Hạ Long",
+        "state": "Quảng Ninh"
+    },
+    {
+        "county": "Hà Quảng",
+        "state": "Cao Bằng"
+    },
+    {
+        "county": "Hà Tiên",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "Hà Tĩnh",
+        "state": "Hà Tĩnh"
+    },
+    {
+        "county": "Hà Trung",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Hải An",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "Hai Bà Trưng",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Hải Châu",
+        "state": "Đà Nẵng"
+    },
+    {
+        "county": "Hải Dương",
+        "state": "Hải Dương"
+    },
+    {
+        "county": "Hải Hà",
+        "state": "Quảng Ninh"
+    },
+    {
+        "county": "Hải Hậu",
+        "state": "Nam Định"
+    },
+    {
+        "county": "Hải Lăng",
+        "state": "Quảng Trị"
+    },
+    {
+        "county": "Hàm Tân",
+        "state": "Bình Thuận"
+    },
+    {
+        "county": "Hàm Thuận Bắc",
+        "state": "Bình Thuận"
+    },
+    {
+        "county": "Hàm Thuận Nam",
+        "state": "Bình Thuận"
+    },
+    {
+        "county": "Hàm Yên",
+        "state": "Tuyên Quang"
+    },
+    {
+        "county": "Hậu Lộc",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Hiệp Đức",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Hiệp Hòa",
+        "state": "Bắc Giang"
+    },
+    {
+        "county": "Hòa An",
+        "state": "Cao Bằng"
+    },
+    {
+        "county": "Hòa Bình",
+        "state": "Hòa Bình"
+    },
+    {
+        "county": "Hòa Bình",
+        "state": "Bạc Liêu"
+    },
+    {
+        "county": "Hoa Lư",
+        "state": "Ninh Bình"
+    },
+    {
+        "county": "Hòa Thành",
+        "state": "Tây Ninh"
+    },
+    {
+        "county": "Hòa Vang",
+        "state": "Đà Nẵng"
+    },
+    {
+        "county": "Hoài Ân",
+        "state": "Bình Định"
+    },
+    {
+        "county": "Hoài Đức",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Hoài Nhơn",
+        "state": "Bình Định"
+    },
+    {
+        "county": "Hoàn Kiếm",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Hoằng Hóa",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Hoàng Mai",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Hoàng Mai",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Hoàng Sa",
+        "state": "Đà Nẵng"
+    },
+    {
+        "county": "Hoàng Su Phì",
+        "state": "Hà Giang"
+    },
+    {
+        "county": "Hóc Môn",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Hội An",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Hòn Đất",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "Hớn Quản",
+        "state": "Bình Phước"
+    },
+    {
+        "county": "Hồng Bàng",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "Hồng Dân",
+        "state": "Bạc Liêu"
+    },
+    {
+        "county": "Hồng Lĩnh",
+        "state": "Hà Tĩnh"
+    },
+    {
+        "county": "Hồng Ngự",
+        "state": "Đồng Tháp"
+    },
+    {
+        "county": "Hồng Ngự",
+        "state": "Đồng Tháp"
+    },
+    {
+        "county": "Huế",
+        "state": "Thừa Thiên Huế"
+    },
+    {
+        "county": "Hưng Hà",
+        "state": "Thái Bình"
+    },
+    {
+        "county": "Hưng Nguyên",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Hưng Yên",
+        "state": "Hưng Yên"
+    },
+    {
+        "county": "Hướng Hóa",
+        "state": "Quảng Trị"
+    },
+    {
+        "county": "Hương Khê",
+        "state": "Hà Tĩnh"
+    },
+    {
+        "county": "Hương Sơn",
+        "state": "Hà Tĩnh"
+    },
+    {
+        "county": "Hương Thủy",
+        "state": "Thừa Thiên Huế"
+    },
+    {
+        "county": "Hương Trà",
+        "state": "Thừa Thiên Huế"
+    },
+    {
+        "county": "Hữu Lũng",
+        "state": "Lạng Sơn"
+    },
+    {
+        "county": "Ia Grai",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Ia H'Drai",
+        "state": "Kon Tum"
+    },
+    {
+        "county": "Ia Pa",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Kbang",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Kế Sách",
+        "state": "Sóc Trăng"
+    },
+    {
+        "county": "Khánh Sơn",
+        "state": "Khánh Hòa"
+    },
+    {
+        "county": "Khánh Vĩnh",
+        "state": "Khánh Hòa"
+    },
+    {
+        "county": "Khoái Châu",
+        "state": "Hưng Yên"
+    },
+    {
+        "county": "Kiến An",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "Kiên Hải",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "Kiên Lương",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "Kiến Thụy",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "Kiến Tường",
+        "state": "Long An"
+    },
+    {
+        "county": "Kiến Xương",
+        "state": "Thái Bình"
+    },
+    {
+        "county": "Kim Bảng",
+        "state": "Hà Nam"
+    },
+    {
+        "county": "Kim Bôi",
+        "state": "Hòa Bình"
+    },
+    {
+        "county": "Kim Động",
+        "state": "Hưng Yên"
+    },
+    {
+        "county": "Kim Sơn",
+        "state": "Ninh Bình"
+    },
+    {
+        "county": "Kim Thành",
+        "state": "Hải Dương"
+    },
+    {
+        "county": "Kinh Môn",
+        "state": "Hải Dương"
+    },
+    {
+        "county": "Kon Plông",
+        "state": "Kon Tum"
+    },
+    {
+        "county": "Kon Rẫy",
+        "state": "Kon Tum"
+    },
+    {
+        "county": "Kon Tum",
+        "state": "Kon Tum"
+    },
+    {
+        "county": "Kông Chro",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Krông Ana",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Krông Bông",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Krông Búk",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Krông Năng",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Krông Nô",
+        "state": "Đắk Nông"
+    },
+    {
+        "county": "Krông Pa",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Krông Pắc",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Kỳ Anh",
+        "state": "Hà Tĩnh"
+    },
+    {
+        "county": "Kỳ Anh",
+        "state": "Hà Tĩnh"
+    },
+    {
+        "county": "Kỳ Sơn",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "La Gi",
+        "state": "Bình Thuận"
+    },
+    {
+        "county": "Lạc Dương",
+        "state": "Lâm Đồng"
+    },
+    {
+        "county": "Lạc Sơn",
+        "state": "Hòa Bình"
+    },
+    {
+        "county": "Lạc Thủy",
+        "state": "Hòa Bình"
+    },
+    {
+        "county": "Lai Châu",
+        "state": "Lai Châu"
+    },
+    {
+        "county": "Lai Vung",
+        "state": "Đồng Tháp"
+    },
+    {
+        "county": "Lắk",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Lâm Bình",
+        "state": "Tuyên Quang"
+    },
+    {
+        "county": "Lâm Hà",
+        "state": "Lâm Đồng"
+    },
+    {
+        "county": "Lâm Thao",
+        "state": "Phú Thọ"
+    },
+    {
+        "county": "Lang Chánh",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Lạng Giang",
+        "state": "Bắc Giang"
+    },
+    {
+        "county": "Lạng Sơn",
+        "state": "Lạng Sơn"
+    },
+    {
+        "county": "Lào Cai",
+        "state": "Lào Cai"
+    },
+    {
+        "county": "Lập Thạch",
+        "state": "Vĩnh Phúc"
+    },
+    {
+        "county": "Lấp Vò",
+        "state": "Đồng Tháp"
+    },
+    {
+        "county": "Lê Chân",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "Lệ Thủy",
+        "state": "Quảng Bình"
+    },
+    {
+        "county": "Liên Chiểu",
+        "state": "Đà Nẵng"
+    },
+    {
+        "county": "Lộc Bình",
+        "state": "Lạng Sơn"
+    },
+    {
+        "county": "Lộc Hà",
+        "state": "Hà Tĩnh"
+    },
+    {
+        "county": "Lộc Ninh",
+        "state": "Bình Phước"
+    },
+    {
+        "county": "Long Biên",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Long Điền",
+        "state": "Bà Rịa – Vũng Tàu"
+    },
+    {
+        "county": "Long Hồ",
+        "state": "Vĩnh Long"
+    },
+    {
+        "county": "Long Khánh",
+        "state": "Đồng Nai"
+    },
+    {
+        "county": "Long Mỹ",
+        "state": "Hậu Giang"
+    },
+    {
+        "county": "Long Mỹ",
+        "state": "Hậu Giang"
+    },
+    {
+        "county": "Long Phú",
+        "state": "Sóc Trăng"
+    },
+    {
+        "county": "Long Thành",
+        "state": "Đồng Nai"
+    },
+    {
+        "county": "Long Xuyên",
+        "state": "An Giang"
+    },
+    {
+        "county": "Lục Nam",
+        "state": "Bắc Giang"
+    },
+    {
+        "county": "Lục Ngạn",
+        "state": "Bắc Giang"
+    },
+    {
+        "county": "Lục Yên",
+        "state": "Yên Bái"
+    },
+    {
+        "county": "Lương Sơn",
+        "state": "Hòa Bình"
+    },
+    {
+        "county": "Lương Tài",
+        "state": "Bắc Ninh"
+    },
+    {
+        "county": "Lý Nhân",
+        "state": "Hà Nam"
+    },
+    {
+        "county": "Lý Sơn",
+        "state": "Quảng Ngãi"
+    },
+    {
+        "county": "M'Drắk",
+        "state": "Đắk Lắk"
+    },
+    {
+        "county": "Mai Châu",
+        "state": "Hòa Bình"
+    },
+    {
+        "county": "Mai Sơn",
+        "state": "Sơn La"
+    },
+    {
+        "county": "Mang Thít",
+        "state": "Vĩnh Long"
+    },
+    {
+        "county": "Mang Yang",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Mê Linh",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Mèo Vạc",
+        "state": "Hà Giang"
+    },
+    {
+        "county": "Minh Hóa",
+        "state": "Quảng Bình"
+    },
+    {
+        "county": "Minh Long",
+        "state": "Quảng Ngãi"
+    },
+    {
+        "county": "Mỏ Cày Bắc",
+        "state": "Bến Tre"
+    },
+    {
+        "county": "Mỏ Cày Nam",
+        "state": "Bến Tre"
+    },
+    {
+        "county": "Mộ Đức",
+        "state": "Quảng Ngãi"
+    },
+    {
+        "county": "Mộc Châu",
+        "state": "Sơn La"
+    },
+    {
+        "county": "Mộc Hóa",
+        "state": "Long An"
+    },
+    {
+        "county": "Móng Cái",
+        "state": "Quảng Ninh"
+    },
+    {
+        "county": "Mù Cang Chải",
+        "state": "Yên Bái"
+    },
+    {
+        "county": "Mường Ảng",
+        "state": "Điện Biên"
+    },
+    {
+        "county": "Mường Chà",
+        "state": "Điện Biên"
+    },
+    {
+        "county": "Mường Khương",
+        "state": "Lào Cai"
+    },
+    {
+        "county": "Mường La",
+        "state": "Sơn La"
+    },
+    {
+        "county": "Mường Lát",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Mường Lay",
+        "state": "Điện Biên"
+    },
+    {
+        "county": "Mường Nhé",
+        "state": "Điện Biên"
+    },
+    {
+        "county": "Mường Tè",
+        "state": "Lai Châu"
+    },
+    {
+        "county": "Mỹ Đức",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Mỹ Hào",
+        "state": "Hưng Yên"
+    },
+    {
+        "county": "Mỹ Tho",
+        "state": "Tiền Giang"
+    },
+    {
+        "county": "Mỹ Tú",
+        "state": "Sóc Trăng"
+    },
+    {
+        "county": "Mỹ Xuyên",
+        "state": "Sóc Trăng"
+    },
+    {
+        "county": "Na Hang",
+        "state": "Tuyên Quang"
+    },
+    {
+        "county": "Na Rì",
+        "state": "Bắc Kạn"
+    },
+    {
+        "county": "Năm Căn",
+        "state": "Cà Mau"
+    },
+    {
+        "county": "Nam Đàn",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Nam Định",
+        "state": "Nam Định"
+    },
+    {
+        "county": "Nam Đông",
+        "state": "Thừa Thiên Huế"
+    },
+    {
+        "county": "Nam Giang",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Nậm Nhùn",
+        "state": "Lai Châu"
+    },
+    {
+        "county": "Nậm Pồ",
+        "state": "Điện Biên"
+    },
+    {
+        "county": "Nam Sách",
+        "state": "Hải Dương"
+    },
+    {
+        "county": "Nam Trà My",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Nam Trực",
+        "state": "Nam Định"
+    },
+    {
+        "county": "Nam Từ Liêm",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Ngã Bảy",
+        "state": "Hậu Giang"
+    },
+    {
+        "county": "Ngã Năm",
+        "state": "Sóc Trăng"
+    },
+    {
+        "county": "Nga Sơn",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Ngân Sơn",
+        "state": "Bắc Kạn"
+    },
+    {
+        "county": "Nghi Lộc",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Nghi Sơn",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Nghi Xuân",
+        "state": "Hà Tĩnh"
+    },
+    {
+        "county": "Nghĩa Đàn",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Nghĩa Hành",
+        "state": "Quảng Ngãi"
+    },
+    {
+        "county": "Nghĩa Hưng",
+        "state": "Nam Định"
+    },
+    {
+        "county": "Nghĩa Lộ",
+        "state": "Yên Bái"
+    },
+    {
+        "county": "Ngô Quyền",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "Ngọc Hiển",
+        "state": "Cà Mau"
+    },
+    {
+        "county": "Ngọc Hồi",
+        "state": "Kon Tum"
+    },
+    {
+        "county": "Ngọc Lặc",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Ngũ Hành Sơn",
+        "state": "Đà Nẵng"
+    },
+    {
+        "county": "Nguyên Bình",
+        "state": "Cao Bằng"
+    },
+    {
+        "county": "Nhà Bè",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Nha Trang",
+        "state": "Khánh Hòa"
+    },
+    {
+        "county": "Nho Quan",
+        "state": "Ninh Bình"
+    },
+    {
+        "county": "Nhơn Trạch",
+        "state": "Đồng Nai"
+    },
+    {
+        "county": "Như Thanh",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Như Xuân",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Ninh Bình",
+        "state": "Ninh Bình"
+    },
+    {
+        "county": "Ninh Giang",
+        "state": "Hải Dương"
+    },
+    {
+        "county": "Ninh Hải",
+        "state": "Ninh Thuận"
+    },
+    {
+        "county": "Ninh Hòa",
+        "state": "Khánh Hòa"
+    },
+    {
+        "county": "Ninh Kiều",
+        "state": "Cần Thơ"
+    },
+    {
+        "county": "Ninh Phước",
+        "state": "Ninh Thuận"
+    },
+    {
+        "county": "Ninh Sơn",
+        "state": "Ninh Thuận"
+    },
+    {
+        "county": "Nông Cống",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Nông Sơn",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Núi Thành",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Ô Môn",
+        "state": "Cần Thơ"
+    },
+    {
+        "county": "Pác Nặm",
+        "state": "Bắc Kạn"
+    },
+    {
+        "county": "Phan Rang – Tháp Chàm",
+        "state": "Ninh Thuận"
+    },
+    {
+        "county": "Phan Thiết",
+        "state": "Bình Thuận"
+    },
+    {
+        "county": "Phổ Yên",
+        "state": "Thái Nguyên"
+    },
+    {
+        "county": "Phong Điền",
+        "state": "Cần Thơ"
+    },
+    {
+        "county": "Phong Điền",
+        "state": "Thừa Thiên Huế"
+    },
+    {
+        "county": "Phong Thổ",
+        "state": "Lai Châu"
+    },
+    {
+        "county": "Phú Bình",
+        "state": "Thái Nguyên"
+    },
+    {
+        "county": "Phù Cát",
+        "state": "Bình Định"
+    },
+    {
+        "county": "Phù Cừ",
+        "state": "Hưng Yên"
+    },
+    {
+        "county": "Phú Giáo",
+        "state": "Bình Dương"
+    },
+    {
+        "county": "Phú Hòa",
+        "state": "Phú Yên"
+    },
+    {
+        "county": "Phú Lộc",
+        "state": "Thừa Thiên Huế"
+    },
+    {
+        "county": "Phú Lương",
+        "state": "Thái Nguyên"
+    },
+    {
+        "county": "Phủ Lý",
+        "state": "Hà Nam"
+    },
+    {
+        "county": "Phú Mỹ",
+        "state": "Bà Rịa – Vũng Tàu"
+    },
+    {
+        "county": "Phù Mỹ",
+        "state": "Bình Định"
+    },
+    {
+        "county": "Phú Nhuận",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Phú Ninh",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Phù Ninh",
+        "state": "Phú Thọ"
+    },
+    {
+        "county": "Phú Quốc",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "Phú Quý",
+        "state": "Bình Thuận"
+    },
+    {
+        "county": "Phú Riềng",
+        "state": "Bình Phước"
+    },
+    {
+        "county": "Phú Tân",
+        "state": "An Giang"
+    },
+    {
+        "county": "Phú Tân",
+        "state": "Cà Mau"
+    },
+    {
+        "county": "Phú Thiện",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Phú Thọ",
+        "state": "Phú Thọ"
+    },
+    {
+        "county": "Phú Vang",
+        "state": "Thừa Thiên Huế"
+    },
+    {
+        "county": "Phú Xuyên",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Phù Yên",
+        "state": "Sơn La"
+    },
+    {
+        "county": "Phúc Thọ",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Phúc Yên",
+        "state": "Vĩnh Phúc"
+    },
+    {
+        "county": "Phụng Hiệp",
+        "state": "Hậu Giang"
+    },
+    {
+        "county": "Phước Long",
+        "state": "Bình Phước"
+    },
+    {
+        "county": "Phước Long",
+        "state": "Bạc Liêu"
+    },
+    {
+        "county": "Phước Sơn",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Pleiku",
+        "state": "Gia Lai"
+    },
+    {
+        "county": "Quận 1",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Quận 3",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Quận 4",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Quận 5",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Quận 6",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Quận 7",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Quận 8",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Quận 10",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Quận 11",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Quận 12",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Quản Bạ",
+        "state": "Hà Giang"
+    },
+    {
+        "county": "Quan Hóa",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Quan Sơn",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Quang Bình",
+        "state": "Hà Giang"
+    },
+    {
+        "county": "Quảng Điền",
+        "state": "Thừa Thiên Huế"
+    },
+    {
+        "county": "Quảng Hòa",
+        "state": "Cao Bằng"
+    },
+    {
+        "county": "Quảng Ngãi",
+        "state": "Quảng Ngãi"
+    },
+    {
+        "county": "Quảng Ninh",
+        "state": "Quảng Bình"
+    },
+    {
+        "county": "Quảng Trạch",
+        "state": "Quảng Bình"
+    },
+    {
+        "county": "Quảng Trị",
+        "state": "Quảng Trị"
+    },
+    {
+        "county": "Quảng Xương",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Quảng Yên",
+        "state": "Quảng Ninh"
+    },
+    {
+        "county": "Quế Phong",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Quế Sơn",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Quế Võ",
+        "state": "Bắc Ninh"
+    },
+    {
+        "county": "Quốc Oai",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Quỳ Châu",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Quỳ Hợp",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Quy Nhơn",
+        "state": "Bình Định"
+    },
+    {
+        "county": "Quỳnh Lưu",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Quỳnh Nhai",
+        "state": "Sơn La"
+    },
+    {
+        "county": "Quỳnh Phụ",
+        "state": "Thái Bình"
+    },
+    {
+        "county": "Rạch Giá",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "Sa Đéc",
+        "state": "Đồng Tháp"
+    },
+    {
+        "county": "Sa Pa",
+        "state": "Lào Cai"
+    },
+    {
+        "county": "Sa Thầy",
+        "state": "Kon Tum"
+    },
+    {
+        "county": "Sầm Sơn",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Si Ma Cai",
+        "state": "Lào Cai"
+    },
+    {
+        "county": "Sìn Hồ",
+        "state": "Lai Châu"
+    },
+    {
+        "county": "Sóc Sơn",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Sóc Trăng",
+        "state": "Sóc Trăng"
+    },
+    {
+        "county": "Sơn Động",
+        "state": "Bắc Giang"
+    },
+    {
+        "county": "Sơn Dương",
+        "state": "Tuyên Quang"
+    },
+    {
+        "county": "Sơn Hà",
+        "state": "Quảng Ngãi"
+    },
+    {
+        "county": "Sơn Hòa",
+        "state": "Phú Yên"
+    },
+    {
+        "county": "Sơn La",
+        "state": "Sơn La"
+    },
+    {
+        "county": "Sơn Tây",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Sơn Tây",
+        "state": "Quảng Ngãi"
+    },
+    {
+        "county": "Sơn Tịnh",
+        "state": "Quảng Ngãi"
+    },
+    {
+        "county": "Sơn Trà",
+        "state": "Đà Nẵng"
+    },
+    {
+        "county": "Sông Cầu",
+        "state": "Phú Yên"
+    },
+    {
+        "county": "Sông Công",
+        "state": "Thái Nguyên"
+    },
+    {
+        "county": "Sông Hinh",
+        "state": "Phú Yên"
+    },
+    {
+        "county": "Sông Lô",
+        "state": "Vĩnh Phúc"
+    },
+    {
+        "county": "Sông Mã",
+        "state": "Sơn La"
+    },
+    {
+        "county": "Sốp Cộp",
+        "state": "Sơn La"
+    },
+    {
+        "county": "Tam Bình",
+        "state": "Vĩnh Long"
+    },
+    {
+        "county": "Tam Đảo",
+        "state": "Vĩnh Phúc"
+    },
+    {
+        "county": "Tam Điệp",
+        "state": "Ninh Bình"
+    },
+    {
+        "county": "Tam Dương",
+        "state": "Vĩnh Phúc"
+    },
+    {
+        "county": "Tam Đường",
+        "state": "Lai Châu"
+    },
+    {
+        "county": "Tam Kỳ",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Tam Nông",
+        "state": "Đồng Tháp"
+    },
+    {
+        "county": "Tam Nông",
+        "state": "Phú Thọ"
+    },
+    {
+        "county": "Tân An",
+        "state": "Long An"
+    },
+    {
+        "county": "Tân Biên",
+        "state": "Tây Ninh"
+    },
+    {
+        "county": "Tân Bình",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Tân Châu",
+        "state": "An Giang"
+    },
+    {
+        "county": "Tân Châu",
+        "state": "Tây Ninh"
+    },
+    {
+        "county": "Tân Hiệp",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "Tân Hồng",
+        "state": "Đồng Tháp"
+    },
+    {
+        "county": "Tân Hưng",
+        "state": "Long An"
+    },
+    {
+        "county": "Tân Kỳ",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Tân Lạc",
+        "state": "Hòa Bình"
+    },
+    {
+        "county": "Tân Phú",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Tân Phú",
+        "state": "Đồng Nai"
+    },
+    {
+        "county": "Tân Phú Đông",
+        "state": "Tiền Giang"
+    },
+    {
+        "county": "Tân Phước",
+        "state": "Tiền Giang"
+    },
+    {
+        "county": "Tân Sơn",
+        "state": "Phú Thọ"
+    },
+    {
+        "county": "Tân Thạnh",
+        "state": "Long An"
+    },
+    {
+        "county": "Tân Trụ",
+        "state": "Long An"
+    },
+    {
+        "county": "Tân Uyên",
+        "state": "Bình Dương"
+    },
+    {
+        "county": "Tân Uyên",
+        "state": "Lai Châu"
+    },
+    {
+        "county": "Tân Yên",
+        "state": "Bắc Giang"
+    },
+    {
+        "county": "Tánh Linh",
+        "state": "Bình Thuận"
+    },
+    {
+        "county": "Tây Giang",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Tây Hồ",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Tây Hòa",
+        "state": "Phú Yên"
+    },
+    {
+        "county": "Tây Ninh",
+        "state": "Tây Ninh"
+    },
+    {
+        "county": "Tây Sơn",
+        "state": "Bình Định"
+    },
+    {
+        "county": "Thạch An",
+        "state": "Cao Bằng"
+    },
+    {
+        "county": "Thạch Hà",
+        "state": "Hà Tĩnh"
+    },
+    {
+        "county": "Thạch Thành",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Thạch Thất",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Thái Bình",
+        "state": "Thái Bình"
+    },
+    {
+        "county": "Thái Hòa",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Thái Nguyên",
+        "state": "Thái Nguyên"
+    },
+    {
+        "county": "Thái Thụy",
+        "state": "Thái Bình"
+    },
+    {
+        "county": "Than Uyên",
+        "state": "Lai Châu"
+    },
+    {
+        "county": "Thăng Bình",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Thanh Ba",
+        "state": "Phú Thọ"
+    },
+    {
+        "county": "Thanh Bình",
+        "state": "Đồng Tháp"
+    },
+    {
+        "county": "Thanh Chương",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Thanh Hà",
+        "state": "Hải Dương"
+    },
+    {
+        "county": "Thanh Hóa",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Thạnh Hóa",
+        "state": "Long An"
+    },
+    {
+        "county": "Thanh Khê",
+        "state": "Đà Nẵng"
+    },
+    {
+        "county": "Thanh Liêm",
+        "state": "Hà Nam"
+    },
+    {
+        "county": "Thanh Miện",
+        "state": "Hải Dương"
+    },
+    {
+        "county": "Thanh Oai",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Thạnh Phú",
+        "state": "Bến Tre"
+    },
+    {
+        "county": "Thanh Sơn",
+        "state": "Phú Thọ"
+    },
+    {
+        "county": "Thanh Thủy",
+        "state": "Phú Thọ"
+    },
+    {
+        "county": "Thanh Trì",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Thạnh Trị",
+        "state": "Sóc Trăng"
+    },
+    {
+        "county": "Thanh Xuân",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Tháp Mười",
+        "state": "Đồng Tháp"
+    },
+    {
+        "county": "Thiệu Hóa",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Thọ Xuân",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Thoại Sơn",
+        "state": "An Giang"
+    },
+    {
+        "county": "Thới Bình",
+        "state": "Cà Mau"
+    },
+    {
+        "county": "Thới Lai",
+        "state": "Cần Thơ"
+    },
+    {
+        "county": "Thống Nhất",
+        "state": "Đồng Nai"
+    },
+    {
+        "county": "Thốt Nốt",
+        "state": "Cần Thơ"
+    },
+    {
+        "county": "Thủ Dầu Một",
+        "state": "Bình Dương"
+    },
+    {
+        "county": "Thủ Đức",
+        "state": "Thành phố Hồ Chí Minh"
+    },
+    {
+        "county": "Thủ Thừa",
+        "state": "Long An"
+    },
+    {
+        "county": "Thuận An",
+        "state": "Bình Dương"
+    },
+    {
+        "county": "Thuận Bắc",
+        "state": "Ninh Thuận"
+    },
+    {
+        "county": "Thuận Châu",
+        "state": "Sơn La"
+    },
+    {
+        "county": "Thuận Nam",
+        "state": "Ninh Thuận"
+    },
+    {
+        "county": "Thuận Thành",
+        "state": "Bắc Ninh"
+    },
+    {
+        "county": "Thường Tín",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Thường Xuân",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Thủy Nguyên",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "Tiên Du",
+        "state": "Bắc Ninh"
+    },
+    {
+        "county": "Tiền Hải",
+        "state": "Thái Bình"
+    },
+    {
+        "county": "Tiên Lãng",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "Tiên Lữ",
+        "state": "Hưng Yên"
+    },
+    {
+        "county": "Tiên Phước",
+        "state": "Quảng Nam"
+    },
+    {
+        "county": "Tiên Yên",
+        "state": "Quảng Ninh"
+    },
+    {
+        "county": "Tiểu Cần",
+        "state": "Trà Vinh"
+    },
+    {
+        "county": "Tịnh Biên",
+        "state": "An Giang"
+    },
+    {
+        "county": "Trà Bồng",
+        "state": "Quảng Ngãi"
+    },
+    {
+        "county": "Trà Cú",
+        "state": "Trà Vinh"
+    },
+    {
+        "county": "Trà Ôn",
+        "state": "Vĩnh Long"
+    },
+    {
+        "county": "Trà Vinh",
+        "state": "Trà Vinh"
+    },
+    {
+        "county": "Trạm Tấu",
+        "state": "Yên Bái"
+    },
+    {
+        "county": "Trần Đề",
+        "state": "Sóc Trăng"
+    },
+    {
+        "county": "Trần Văn Thời",
+        "state": "Cà Mau"
+    },
+    {
+        "county": "Trấn Yên",
+        "state": "Yên Bái"
+    },
+    {
+        "county": "Trảng Bàng",
+        "state": "Tây Ninh"
+    },
+    {
+        "county": "Trảng Bom",
+        "state": "Đồng Nai"
+    },
+    {
+        "county": "Tràng Định",
+        "state": "Lạng Sơn"
+    },
+    {
+        "county": "Tri Tôn",
+        "state": "An Giang"
+    },
+    {
+        "county": "Triệu Phong",
+        "state": "Quảng Trị"
+    },
+    {
+        "county": "Triệu Sơn",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Trực Ninh",
+        "state": "Nam Định"
+    },
+    {
+        "county": "Trùng Khánh",
+        "state": "Cao Bằng"
+    },
+    {
+        "county": "Trường Sa",
+        "state": "Khánh Hòa"
+    },
+    {
+        "county": "Tứ Kỳ",
+        "state": "Hải Dương"
+    },
+    {
+        "county": "Tu Mơ Rông",
+        "state": "Kon Tum"
+    },
+    {
+        "county": "Tư Nghĩa",
+        "state": "Quảng Ngãi"
+    },
+    {
+        "county": "Từ Sơn",
+        "state": "Bắc Ninh"
+    },
+    {
+        "county": "Tủa Chùa",
+        "state": "Điện Biên"
+    },
+    {
+        "county": "Tuần Giáo",
+        "state": "Điện Biên"
+    },
+    {
+        "county": "Tương Dương",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Tuy An",
+        "state": "Phú Yên"
+    },
+    {
+        "county": "Tuy Đức",
+        "state": "Đắk Nông"
+    },
+    {
+        "county": "Tuy Hòa",
+        "state": "Phú Yên"
+    },
+    {
+        "county": "Tuy Phong",
+        "state": "Bình Thuận"
+    },
+    {
+        "county": "Tuy Phước",
+        "state": "Bình Định"
+    },
+    {
+        "county": "Tuyên Hóa",
+        "state": "Quảng Bình"
+    },
+    {
+        "county": "Tuyên Quang",
+        "state": "Tuyên Quang"
+    },
+    {
+        "county": "U Minh Thượng",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "U Minh",
+        "state": "Cà Mau"
+    },
+    {
+        "county": "Ứng Hòa",
+        "state": "Hà Nội"
+    },
+    {
+        "county": "Uông Bí",
+        "state": "Quảng Ninh"
+    },
+    {
+        "county": "Văn Bàn",
+        "state": "Lào Cai"
+    },
+    {
+        "county": "Vân Canh",
+        "state": "Bình Định"
+    },
+    {
+        "county": "Văn Chấn",
+        "state": "Yên Bái"
+    },
+    {
+        "county": "Vân Đồn",
+        "state": "Quảng Ninh"
+    },
+    {
+        "county": "Văn Giang",
+        "state": "Hưng Yên"
+    },
+    {
+        "county": "Vân Hồ",
+        "state": "Sơn La"
+    },
+    {
+        "county": "Văn Lâm",
+        "state": "Hưng Yên"
+    },
+    {
+        "county": "Văn Lãng",
+        "state": "Lạng Sơn"
+    },
+    {
+        "county": "Vạn Ninh",
+        "state": "Khánh Hòa"
+    },
+    {
+        "county": "Văn Quan",
+        "state": "Lạng Sơn"
+    },
+    {
+        "county": "Văn Yên",
+        "state": "Yên Bái"
+    },
+    {
+        "county": "Vị Thanh",
+        "state": "Hậu Giang"
+    },
+    {
+        "county": "Vị Thủy",
+        "state": "Hậu Giang"
+    },
+    {
+        "county": "Vị Xuyên",
+        "state": "Hà Giang"
+    },
+    {
+        "county": "Việt Trì",
+        "state": "Phú Thọ"
+    },
+    {
+        "county": "Việt Yên",
+        "state": "Bắc Giang"
+    },
+    {
+        "county": "Vĩnh Bảo",
+        "state": "Hải Phòng"
+    },
+    {
+        "county": "Vĩnh Châu",
+        "state": "Sóc Trăng"
+    },
+    {
+        "county": "Vĩnh Cửu",
+        "state": "Đồng Nai"
+    },
+    {
+        "county": "Vĩnh Hưng",
+        "state": "Long An"
+    },
+    {
+        "county": "Vĩnh Linh",
+        "state": "Quảng Trị"
+    },
+    {
+        "county": "Vĩnh Lộc",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Vĩnh Lợi",
+        "state": "Bạc Liêu"
+    },
+    {
+        "county": "Vĩnh Long",
+        "state": "Vĩnh Long"
+    },
+    {
+        "county": "Vĩnh Thạnh",
+        "state": "Cần Thơ"
+    },
+    {
+        "county": "Vĩnh Thạnh",
+        "state": "Bình Định"
+    },
+    {
+        "county": "Vĩnh Thuận",
+        "state": "Kiên Giang"
+    },
+    {
+        "county": "Vĩnh Tường",
+        "state": "Vĩnh Phúc"
+    },
+    {
+        "county": "Vĩnh Yên",
+        "state": "Vĩnh Phúc"
+    },
+    {
+        "county": "Vinh",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Võ Nhai",
+        "state": "Thái Nguyên"
+    },
+    {
+        "county": "Vụ Bản",
+        "state": "Nam Định"
+    },
+    {
+        "county": "Vũ Quang",
+        "state": "Hà Tĩnh"
+    },
+    {
+        "county": "Vũ Thư",
+        "state": "Thái Bình"
+    },
+    {
+        "county": "Vũng Liêm",
+        "state": "Vĩnh Long"
+    },
+    {
+        "county": "Vũng Tàu",
+        "state": "Bà Rịa – Vũng Tàu"
+    },
+    {
+        "county": "Xín Mần",
+        "state": "Hà Giang"
+    },
+    {
+        "county": "Xuân Lộc",
+        "state": "Đồng Nai"
+    },
+    {
+        "county": "Xuân Trường",
+        "state": "Nam Định"
+    },
+    {
+        "county": "Xuyên Mộc",
+        "state": "Bà Rịa – Vũng Tàu"
+    },
+    {
+        "county": "Ý Yên",
+        "state": "Nam Định"
+    },
+    {
+        "county": "Yên Bái",
+        "state": "Yên Bái"
+    },
+    {
+        "county": "Yên Bình",
+        "state": "Yên Bái"
+    },
+    {
+        "county": "Yên Châu",
+        "state": "Sơn La"
+    },
+    {
+        "county": "Yên Định",
+        "state": "Thanh Hóa"
+    },
+    {
+        "county": "Yên Dũng",
+        "state": "Bắc Giang"
+    },
+    {
+        "county": "Yên Khánh",
+        "state": "Ninh Bình"
+    },
+    {
+        "county": "Yên Lạc",
+        "state": "Vĩnh Phúc"
+    },
+    {
+        "county": "Yên Lập",
+        "state": "Phú Thọ"
+    },
+    {
+        "county": "Yên Minh",
+        "state": "Hà Giang"
+    },
+    {
+        "county": "Yên Mô",
+        "state": "Ninh Bình"
+    },
+    {
+        "county": "Yên Mỹ",
+        "state": "Hưng Yên"
+    },
+    {
+        "county": "Yên Phong",
+        "state": "Bắc Ninh"
+    },
+    {
+        "county": "Yên Sơn",
+        "state": "Tuyên Quang"
+    },
+    {
+        "county": "Yên Thành",
+        "state": "Nghệ An"
+    },
+    {
+        "county": "Yên Thế",
+        "state": "Bắc Giang"
+    },
+    {
+        "county": "Yên Thủy",
+        "state": "Hòa Bình"
+    }
+]
