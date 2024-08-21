@@ -78,7 +78,7 @@ const listRandom=async():Promise<ICounty[]>=>{
    
     const dataCounty=await list()
     const data=shuffleArray(dataCounty.data)
-    return data.slice(0,20)
+    return data.slice(0,10)
 }
 const countyService={
     get,list,listRandom
