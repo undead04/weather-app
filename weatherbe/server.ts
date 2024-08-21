@@ -5,7 +5,11 @@ import dotenv from 'dotenv';
 import {createData} from './utils/createData'
 import countyRouter from './routers/countryRouter'
 import stateRouter from './routers/stateRouter'
-import { normalizeString } from './utils/removeAccents';
+import weatherRouter from './routers/weatherRouter'
+import forecastRouter from './routers/forecaseWeatherRoute'
+import airRouter from './routers/airRouter'
+import iconRouter from './routers/iconRouter'
+import { normalizeString } from './utils/utilsFuncion';
 const app = express();
 dotenv.config();
 const PORT = process.env.PORT || 3000;
@@ -27,6 +31,10 @@ app.use(function(req, res, next) {
 createData()
 app.use('/api/state',stateRouter)
 app.use('/api/county',countyRouter)
+app.use('/api/weather',weatherRouter)
+app.use('/api/forecast',forecastRouter)
+app.use('/api/air',airRouter)
+app.use('/api/icon',iconRouter)
 app.listen(process.env.PORT,()=>{
   console.log("Kết nối thành công")
 })

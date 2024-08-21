@@ -3,7 +3,7 @@ import State from '../models/state';
 import County from '../models/county';
 import { join } from 'path';
 import { IAddress } from '../types/types';
-import { normalizeString } from './removeAccents';
+import { normalizeString } from './utilsFuncion';
 export const createData = async (): Promise<void> => {
     // Kiểm tra nếu dữ liệu đã tồn tại trong database
     const existingCounties: number = await County.countDocuments();
