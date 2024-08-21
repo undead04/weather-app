@@ -41,7 +41,7 @@ const list = async (name?: string,state?:string, page: number = 1, pageSize?: nu
     const skip = (page - 1) * limit;
     const totalPage = Math.ceil(totalDocument / limit);
     const currentPage = Math.min(page, totalPage || 1);
-    const dataCounty: ICounty[] = await County.aggregate(
+    const data: ICounty[] = await County.aggregate(
         [
             ...commonPipeline,
             {$match:query},
@@ -50,19 +50,8 @@ const list = async (name?: string,state?:string, page: number = 1, pageSize?: nu
             {$limit:limit}
         ]
     )
-    const data = await Promise.all(dataCounty.map(async (item) => {
-        let query = removeDiacritics(`${item.name}, ${item.state.name}, VN`);
-        let count = await addressService.get(query);
-        if (count.length >= 1) {
-            return item;
-        }
-        return null; // Trả về null nếu không thỏa mãn điều kiện
-    }));
-    
-    // Loại bỏ các giá trị null (các mục không thỏa mãn điều kiện)
-    const filteredData = data.filter(item => item !== null);
     return{
-        data:filteredData,
+        data:data,
         currentPage:page,
         totalPage:totalPage
     }
@@ -75,10 +64,12 @@ const get=async(id:string):Promise<ICounty|string>=>{
         return "Không tìm thấy quận huyện  này tại Việt Nam"
 }
 const listRandom=async():Promise<ICounty[]>=>{
-   
-    const dataCounty=await list()
-    const data=shuffleArray(dataCounty.data)
-    return data.slice(0,10)
+   const data:ICounty[]=await County.aggregate([
+    ...commonPipeline,
+    {$sample:{size:20}}
+   ])
+   console.log(data)
+   return data
 }
 const countyService={
     get,list,listRandom
