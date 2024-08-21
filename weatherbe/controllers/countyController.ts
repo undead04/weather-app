@@ -25,15 +25,7 @@ const get=async(req:Request,res:Response,next:NextFunction)=>{
         res.status(500).json(error)
     }
 }
-const listRandom=async (req:Request,res:Response,next:NextFunction)=>{
-    try{
-        const data=await countyService.listRandom()
-        res.status(200).json(data)
-    }catch(error:any){
-        res.status(500).json(error)
-    }
-}
 const countryController={
-    get,list,listRandom
+    get,list
 }
 export default countryController

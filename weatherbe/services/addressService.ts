@@ -6,7 +6,7 @@ const get=(q:string)=>{
     let url = `${api.url.address}`;
     params.append('q',q);
     params.append('limit',String(1))
-    params.append('appid',process.env.REACT_APP_API_KEY??"")
+    params.append('appid',process.env.API_KEY_WEATHER??"")
     url+="?"+params.toString()
     return api.get<IAddress[]>(url).then(res=>res.data)
 }

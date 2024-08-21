@@ -7,7 +7,7 @@ const get = (lat:number,lon:number, cnt: number) => {
     params.append('lon',String(lon));
     params.append('cnt', String(cnt));
     params.append('lang', "vi");
-    params.append('appid', process.env.REACT_APP_API_KEY ?? "");
+    params.append('appid', process.env.API_KEY_WEATHER ?? "");
 
     // Thêm các tham số vào URL nếu chúng tồn tại
     if (params.toString()) {

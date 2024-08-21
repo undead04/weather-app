@@ -1,7 +1,7 @@
 
 import County, { ICounty } from "../models/county";
 import mongoose from "mongoose";
-import {normalizeString, removeAccents, removeDiacritics} from "../utils/utilsFuncion";
+import {normalizeString, removeAccents, removeDiacritics, shuffleArray} from "../utils/utilsFuncion";
 import addressService from './addressService';
 const commonPipeline=[
     {
@@ -50,16 +50,19 @@ const list = async (name?: string,state?:string, page: number = 1, pageSize?: nu
             {$limit:limit}
         ]
     )
-    const data=await Promise.all(dataCounty.filter(async(item)=>{
-        let query=removeDiacritics(`${item.name}, ${item.state.name}, VN`)
-        let count= (await addressService.get(query))
-        if(count.length>=1){
-            return item
+    const data = await Promise.all(dataCounty.map(async (item) => {
+        let query = removeDiacritics(`${item.name}, ${item.state.name}, VN`);
+        let count = await addressService.get(query);
+        if (count.length >= 1) {
+            return item;
         }
-
-    }))
+        return null; // Trả về null nếu không thỏa mãn điều kiện
+    }));
+    
+    // Loại bỏ các giá trị null (các mục không thỏa mãn điều kiện)
+    const filteredData = data.filter(item => item !== null);
     return{
-        data:data,
+        data:filteredData,
         currentPage:page,
         totalPage:totalPage
     }
@@ -72,8 +75,10 @@ const get=async(id:string):Promise<ICounty|string>=>{
         return "Không tìm thấy quận huyện  này tại Việt Nam"
 }
 const listRandom=async():Promise<ICounty[]>=>{
+   
     const dataCounty=await list()
-    return dataCounty.data.sort(()=>0.5*Math.random()).slice(0,20)
+    const data=shuffleArray(dataCounty.data)
+    return data.slice(0,20)
 }
 const countyService={
     get,list,listRandom

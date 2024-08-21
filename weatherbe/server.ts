@@ -9,7 +9,7 @@ import weatherRouter from './routers/weatherRouter'
 import forecastRouter from './routers/forecaseWeatherRoute'
 import airRouter from './routers/airRouter'
 import iconRouter from './routers/iconRouter'
-import { normalizeString } from './utils/utilsFuncion';
+import addressRouter from './routers/addressRouter'
 const app = express();
 dotenv.config();
 const PORT = process.env.PORT || 3000;
@@ -35,6 +35,7 @@ app.use('/api/weather',weatherRouter)
 app.use('/api/forecast',forecastRouter)
 app.use('/api/air',airRouter)
 app.use('/api/icon',iconRouter)
+app.use('/api/address',addressRouter)
 app.listen(process.env.PORT,()=>{
   console.log("Kết nối thành công")
 })
